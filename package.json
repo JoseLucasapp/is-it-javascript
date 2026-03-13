@@ -1,0 +1,12 @@
+{
+  "name": "isitjavascript",
+  "version": "1.0.0",
+  "description": "Check if you are using javascript",
+  "license": "ISC",
+  "author": "joselucasapp",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
